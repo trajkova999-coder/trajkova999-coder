@@ -11,7 +11,7 @@
 
 ## About
 
-I'm **Marija Trajkova, MD** ” a medical doctor exploring how artificial intelligence and thoughtful software design can support medicine.
+I'm **Marija Trajkova, MD** a medical doctor exploring how artificial intelligence and thoughtful software design can support medicine.
 
 My interests sit at the intersection of **cardiology, clinical workflows, and human-centered technology**. I'm especially drawn to tools that make complex medical information easier to navigate, with interfaces that feel clear, calm, and intuitive.
 
