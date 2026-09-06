@@ -31,7 +31,7 @@ My interests sit at the intersection of **cardiology, clinical workflows, and hu
   <img src="holter-card.png" alt="Explore Holter â€” a clinician-led ECG review and reporting prototype. TypeScript. View repository." width="100%" />
 </a>
 
-**[Holter ’](https://github.com/trajkova999-coder/holter)** is a clinician-led ECG review and reporting prototype for healthcare teams, bringing together waveform exploration, event review, and structured draft reports.
+**[Holter](https://github.com/trajkova999-coder/holter)** is a clinician-led ECG review and reporting prototype for healthcare teams, bringing together waveform exploration, event review, and structured draft reports.
 
 *Demonstration only; not for clinical use.*
 
